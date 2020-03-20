@@ -1,0 +1,1 @@
+This projet is for use in setting up and testing Jenkins for iOS builds
